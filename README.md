@@ -1,5 +1,4 @@
 # BookCart   
-<h3>Major Project Diploma</h3>
 To overcome all the drawbacks of manual shopping of books we the group of three people designed a platform i.e. BookCart.</br>
 BookCart is a bookselling site that has been designed to provide polytechnic books in a very convenient way. 
 This web project is developed using PHP, MySQL, HTML, CSS. The MySQL database stores various book-related details. 
